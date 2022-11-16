@@ -7,3 +7,5 @@ Purpose of Skeleton View Animation is making our app as smooth as possible while
 In order to log in, please make username Mert and password Duran(With capitals)
 
 Notification Bell is animated when clicked.
+
+When in Login, If you enter wrong username/password sign in button animates.
