@@ -155,13 +155,13 @@ extension LoginViewController {
             return
         }
         
-//        if username == "Mert" && password == "Duran" {
-//            signInButton.configuration?.showsActivityIndicator = true
-//            delegate?.didLogin()
-//        }else {
-//            configureView(withMessage: "Incorrect Username/Password")
-//
-//        }
+        if username == "Mert" && password == "Duran" {
+            signInButton.configuration?.showsActivityIndicator = true
+            delegate?.didLogin()
+        }else {
+            configureView(withMessage: "Incorrect Username/Password")
+
+        }
             
     }
     
